@@ -28,4 +28,4 @@ No, you should fix the pie first. Tune it so that it causes
 And is he feeling [cold](031-heater.md), also?
 
 # Yes, he is
-He is now ready for his clothes. You should have them from the laundry.
+He is now ready for his clothes. You should have them from the laundry. He gives you his towel.
