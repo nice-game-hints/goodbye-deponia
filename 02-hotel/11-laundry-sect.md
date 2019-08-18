@@ -22,4 +22,4 @@ Try to find some items with insignia in them.
 Deliver each relic to the sect
 
 # Delivered
-Next is the skippable minigame to get the clothes of Cletus.
+Next is a skippable minigame to get the clothes of Cletus.
