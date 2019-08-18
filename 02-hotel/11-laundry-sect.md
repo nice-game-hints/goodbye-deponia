@@ -1,9 +1,9 @@
 ---
-title: The mysterious laundry sect
-keywords: seer, lice, laundry, sect, towel
+title: How to get clothes from the laundry sect
+keywords: seer, lice, laundry, sect, towel, cletus, clothes
 ---
 
-The laundry sect is waiting the Seer (in one of the hotel rooms) to come and speak to them.
+The clothes of Cletus are in the washing machine. The laundry sect is waiting the Seer (in one of the hotel rooms) to come and speak to them.
 
 # He is not ready
 He is not, and will not be. [Get his robe](05-seer.md)
@@ -12,7 +12,7 @@ He is not, and will not be. [Get his robe](05-seer.md)
 Now, enter the temple.. I mean the laundry room. They will require the sacred relics.
 
 # Relics?
-Try to find some items with insignia in them.
+Try to find some items with insignia on them.
 
 # What are they?
  - The pillowcase, from the closet
