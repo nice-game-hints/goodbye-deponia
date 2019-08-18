@@ -1,7 +1,7 @@
---
+---
 title: Blue pie
 keywords: whooping pox, bozo, blue tongue, pie
---
+---
 
 The pie should make his tongue blue.
 

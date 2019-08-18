@@ -1,7 +1,7 @@
---
+---
 title: How to turn the heat off
 keywords: bozo, heater
---
+---
 
 Bozo is acting calm as there is enough heat.
 

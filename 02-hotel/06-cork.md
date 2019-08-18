@@ -1,7 +1,7 @@
---
+---
 title: How to get the jar and cork
 keywords: seer, tarantula, jar, cork, leak
---
+---
 
 The seer is blocking you from getting that beautiful tarantula jar.
 

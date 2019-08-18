@@ -1,7 +1,7 @@
---
+---
 title: How to get Bozo clothed
 keywords: bozo, towel, clothes, whooping pox, cold
---
+---
 
 Bozo is not giving up. He is warm and he likes to do that basic instinct thing ... ugh.
 

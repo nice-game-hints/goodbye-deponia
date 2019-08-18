@@ -1,7 +1,7 @@
---
+---
 title: Get past the ghost
 keywords: ghost, seer, dandruff, shampoo, fish, scale
---
+---
 
 You need to get past the ghost, do you?
 

@@ -1,7 +1,7 @@
---
+---
 title: Get the toilet working
 keywords: toilet, flush, leak, time traveler
---
+---
 
 So, the time traveler left you with a surprise, when [he got away from the toilet](/02-hotel/04-pie).
 

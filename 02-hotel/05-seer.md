@@ -1,7 +1,7 @@
---
+---
 title: Deal with the seer
 keywords: fish, seer, trash bin, scales
---
+---
 
 You need to pimp up the seer's hood to make him ready for the speech.
 

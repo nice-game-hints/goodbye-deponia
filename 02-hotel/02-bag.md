@@ -1,7 +1,7 @@
---
+---
 title: How to get the bag
 keywords: oppenbot, bag
---
+---
 
 Oppenbot is guarding a bag in the reception.
 

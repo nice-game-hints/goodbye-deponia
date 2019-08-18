@@ -1,7 +1,7 @@
---
+---
 title: How to get Bozo to cough
 keywords: dust, bozo, cough, whooping pox, pie
---
+---
 
 # How would he cough?
 Maybe with something dry.

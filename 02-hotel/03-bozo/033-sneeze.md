@@ -1,7 +1,7 @@
---
+---
 title: Bozo sneeze
 keywords: bozo, pepper, sneeze
---
+---
 
 Bozo would think he has a cold if he sneezes.
 

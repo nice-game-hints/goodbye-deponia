@@ -1,7 +1,7 @@
---
+---
 title: How to get a pie
 keywords: bozo, blue tongue, toilet, pie vending machine, pie
---
+---
 
 There is a pie vending machine behind the rooms. Did you try to catch one pie?
 
