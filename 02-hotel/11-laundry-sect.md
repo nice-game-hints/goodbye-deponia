@@ -18,7 +18,8 @@ Try to find some items with insignia in them.
  - The pillowcase, from the closet
  - [Bozo's towel](03-bozo/index.md)
  - The ghost's sheet. You get it from the room where the ghost was.
+
 Deliver each relic to the sect
- 
+
 # Delivered
 Next is the skippable minigame to get the clothes of Cletus.
