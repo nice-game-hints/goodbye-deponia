@@ -12,4 +12,4 @@ Did you talk to him? He likes to hear people shower.
 Well, that is his haunting thing. Who lives next to him?
 
 # Seer?
-Yup. [Deal with him first]().
+Yup. [Deal with him first](05-seer,md).

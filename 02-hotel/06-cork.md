@@ -6,7 +6,7 @@ keywords: seer, tarantula, jar, cork, leak
 The seer is blocking you from getting that beautiful tarantula jar.
 
 # How do I get rid of him?
-He said that he is preparing a speech and would need fancier robe. [Get him a fancier robe](05-seer)
+He said that he is preparing a speech and would need fancier robe. [Get him a fancier robe](05-seer.md)
 
 # But..
 Oh, he threw you out. Maybe you can access his room somewhere else?

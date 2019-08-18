@@ -9,7 +9,7 @@ There is a pie vending machine behind the rooms. Did you try to catch one pie?
 Yeah, you would need some money.
 
 # Paper money, that is
-Yes, there is a rich man checking in to the hotel given that you have [visited your friends](/02-hotel/01-friends).
+Yes, there is a rich man checking in to the hotel given that you have [visited your friends](/02-hotel/01-friends.md).
 
 # Oppenbot
 He is guarding the bag. Steal the bag.
