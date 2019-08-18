@@ -10,4 +10,4 @@ Maybe with something dry.
 Like, dust. The whole hotel should be full of it.
 
 # Where do I get it?
-In the restaurant (behind the reception) there is an old coffe maker. Give it a go. Apply the dust, *cough*, onto the pie.
+In the restaurant (behind the reception) there is an old coffee maker. Give it a go. Apply the dust, *cough*, onto the pie.
