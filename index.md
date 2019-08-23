@@ -1,7 +1,7 @@
 ---
-title: Deponia Doomsday
-keywords: deponia,guide,doomsday
+title: Goodbye Deponia
+keywords: goodbye deponia,guide
 author: Juho Rutila
 ---
 
-Welcome to Deponia Doomsday hints.
+Welcome to Goodbye Deponia hints.

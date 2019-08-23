@@ -1,2 +1,2 @@
-# deponia-doomsday
-Deponia Doomsday Nice Game Hints repository
+# goodbye-deponia
+Goodbye Deponia Nice Game Hints repository
