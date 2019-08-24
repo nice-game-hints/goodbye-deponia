@@ -5,7 +5,7 @@ keywords: bambina, tattoo, squad insignia
 
 **Middle Rufus**
 
-Bambina and Lotti (sorry, Sgt. Bambi and Pvt. Lotti) need help designing the squad insignia tattoo. First, you need paper.
+Bambina and Lotti (sorry, Sgt. Bambi and Pvt. Lotti) need help designing the squad insignia tattoo (you should discuss with them until they say about this). First, you need paper.
 
 # Where?
 From the editor's office (the middle door from the district center). Grab the ink, also.

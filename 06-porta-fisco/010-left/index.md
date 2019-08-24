@@ -13,7 +13,3 @@ You are in the sewers. To get Goal back you should find the acid. [Get past the 
 
 # Got past it
 Now you have the kids following you. Isn't that nice. The witch said she sold the acid to the Sewers Inn. [Get into the pub](030-into-bar.md) and [take what is yours]()!
-
-
-Mun muistiinpanot
-- Ku Rufus kävi siellä eläintä silittämässä, sanoi Rustylle, että piirtää kuvan seuraavalla kerralla

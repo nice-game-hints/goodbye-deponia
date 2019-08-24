@@ -17,7 +17,9 @@ Call Rusty, the children form a nice line. Click on them to get past the smelly 
 Now, open the crate.
 
 # It's tight
-Use the correct tool. You get it when you [deal with Bambina and Lotti](../020-middle/025-tattoo-design.md)
+Use the correct tool. You get it when you [deal with Bambina and Lotti](../020-middle/025-tattoo-design.md) as **Middle Rufus**.
 
 # The tool?
-The crowbar is next to the loitering Lotti. Give the crowbar to *Left Rufus*. Form the child bridge and use the crowbar to open the banana crate.
+**Middle Rufus**
+
+The crowbar is next to the loitering Lotti. Give the crowbar to *Left Rufus*. As *Left Rufus* form the child bridge and use the crowbar to open the banana crate.
