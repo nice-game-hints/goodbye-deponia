@@ -40,4 +40,4 @@ Yeah, go feed the antidepressants to him.
 You should mix antidepressants with the leftover soup. Bozo likes it.
 
 # He ate the soup!
-Bozo? Ohh.. Baby Bozo. You can use the Emetic to get them out of Baby Bozo. Show the ready-to-bard Baby Bozo to Bozo. Grab the piggy bank now.
+Bozo? Ohh.. Baby Bozo. You can use the Emetic to get them out of Baby Bozo. Show the ready-to-barf Baby Bozo to Bozo. Grab the piggy bank now. Bozo gets you now into the rebel hideout.
