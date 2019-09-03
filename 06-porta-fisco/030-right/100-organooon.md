@@ -1,11 +1,11 @@
 ---
-title: Get rid of the hymn
-keywords: organon, crate lug, hymn
+title: Get rid of the anthem
+keywords: organon, crate lug, anthem
 ---
 
 **Right Rufus**
 
-So, you disquised yourself once more and now you are listening that beautiful organon hymn.
+So, you disquised yourself once more and now you are listening that beautiful organon anthem.
 
 # How do I get away?
 What can you do? If you move anywhere he will stop you.
