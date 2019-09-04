@@ -14,6 +14,10 @@ Maybe Bambina or Lotti could help? Talk to them (after visiting the gate).
 They need help designing the [squad insignia tattoo.](025-tattoo-design.md)
 
 # Tattooed
-Lotti won't help you. And Bambina went to see Bozo. Urgh..
+Lotti won't help you. But Bambina is in the tank!
 
-# Who then?
+# Well, she is...
+But she is not doing that either.
+
+# So...
+The only option is: [Bozo](050-bozo.md). Sigh...
