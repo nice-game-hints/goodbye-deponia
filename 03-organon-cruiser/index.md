@@ -1,5 +1,5 @@
 ---
-title: Organong cruiser
+title: Organon cruiser
 keywords: organon, cruiser, goal
 ---
 
