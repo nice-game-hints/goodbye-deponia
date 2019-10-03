@@ -9,7 +9,7 @@ You got out but you are going circles. It is a maze.
 First, grab a coffee and think through it.
 
 # Yeah yeah
-No, relly, take a coffee from the coffee dispenser in the cabin.
+No, really, take a coffee from the coffee dispenser in the cabin.
 
 # And then?
 You noticed the doormat in front of the cabin? It would be shame if something would drop on it.
