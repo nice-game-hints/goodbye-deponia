@@ -34,14 +34,3 @@ You can find the egg from the pipe valve. [Get it](040-egg.md) and throw that al
 
 # Done, full cauges
 Now you can create three Hermeses. Turn the switch to three and push the button to get Hermes. Then, pull the lever. One of them survives.
-
-sack of beans - residence straight
-oil bottle - residence straight
-water cooler - residence straight
-olives - residence straight
-junkball bat - factory floor straight
-
-olive oil - olives into the oil mill
-
-punched time card from the vampire platypus
-garlic - after punching the time cardkk
