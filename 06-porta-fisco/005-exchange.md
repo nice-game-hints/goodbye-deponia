@@ -8,7 +8,7 @@ You should try to meet the other you for this.
 # How?
 First, Left Rufus and Middle Rufus should get to a meeting point.
  - [Get out of darkness](010-left/010-darkness.md)
- - [Get through the gate](020-middle/01-gate.md)
+ - [Get through the gate](020-middle/005-gate.md)
 
 # These are both done
 **Middle Rufus** can now look into the storm drain next to the burrito place.

@@ -17,7 +17,7 @@ Well, they said they won't start cooking until they have visitors, Bozo's girlfr
 First, go try the gate. Then, talk to Bambina and Lotti.
 
 # Talked
-[Help them to design the insignia.](025-tatto-design.md)
+[Help them to design the insignia.](025-tattoo-design.md)
 
 # They have the tattoos
 And Bambina is in the tank guarding the radio. And she is not leaving.

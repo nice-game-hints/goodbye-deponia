@@ -23,4 +23,4 @@ Well, there are three outfits. Try out the baby outfit.
 What did the lady say about the lollipop? It gets a child moving.
 
 # So?
-Give it to Baby Bozo. The gate is now open.
+Give it to Baby Bozo.

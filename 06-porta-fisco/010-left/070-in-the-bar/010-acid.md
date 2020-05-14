@@ -20,7 +20,7 @@ Two zlottis tip is quite good, actually. That would mean only three serves of sw
 They threw you out! Get back in and demand what is yours!
 
 # He is not giving it!
-Maybe you should just give him the money. [Get Bozo's piggybank.](../020-middle/050-bozo.md)
+Maybe you should just give him the money. [Get Bozo's piggybank.](/06-porta-fisco/020-middle/050-bozo.md)
 
 # I have the piggy bank
 Give it to *Left Rufus* and give it to the bartender.
