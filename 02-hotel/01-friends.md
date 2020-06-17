@@ -1,6 +1,6 @@
---
+---
 title: How to find your friends
---
+---
 
 Where did your friends go?
 
