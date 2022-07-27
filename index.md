@@ -3,7 +3,7 @@ title: Goodbye Deponia
 keywords: goodbye deponia, rufus
 author: Juho Rutila
 praise: https://www.buymeacoffee.com/jrutila
-praiseModal: h10
+praiseModal: h60
 ---
 
 Welcome to spoiler free hints for Goodbye Deponia!
